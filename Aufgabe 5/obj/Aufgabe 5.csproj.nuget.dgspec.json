@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\Aufgabe 5\\Aufgabe 5.csproj": {}
+    "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\C-Grundlagen-BLJ-2025\\Aufgabe 5\\Aufgabe 5.csproj": {}
   },
   "projects": {
-    "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\Aufgabe 5\\Aufgabe 5.csproj": {
+    "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\C-Grundlagen-BLJ-2025\\Aufgabe 5\\Aufgabe 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\Aufgabe 5\\Aufgabe 5.csproj",
+        "projectUniqueName": "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\C-Grundlagen-BLJ-2025\\Aufgabe 5\\Aufgabe 5.csproj",
         "projectName": "Aufgabe 5",
-        "projectPath": "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\Aufgabe 5\\Aufgabe 5.csproj",
+        "projectPath": "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\C-Grundlagen-BLJ-2025\\Aufgabe 5\\Aufgabe 5.csproj",
         "packagesPath": "C:\\Users\\leonw\\.nuget\\packages\\",
-        "outputPath": "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\Aufgabe 5\\obj\\",
+        "outputPath": "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\C-Grundlagen-BLJ-2025\\Aufgabe 5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

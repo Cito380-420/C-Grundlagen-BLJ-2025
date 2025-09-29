@@ -40,7 +40,7 @@
 
             else
             {
-                Console.WriteLine("\nDein Kommentar enthält 2 verbotene Wörter." +
+                Console.WriteLine($"\nDein Kommentar enthält {forbiddenWordsCounter} verbotene Wörter." +
                                   "\nEr wird nicht veröffentlicht.");
             }
            

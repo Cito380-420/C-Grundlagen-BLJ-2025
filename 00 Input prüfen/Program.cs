@@ -15,6 +15,19 @@
             }
             while (int.TryParse(input, out zahl) == false);
 
+            //int b = 1000000;
+            //int a = -1000000;
+
+
+            //while (true)
+            //{ 
+            //    Console.WriteLine(b);
+            //    b = b - 1;
+            //    Console.WriteLine(a);
+            //    a = a + 1;
+
+            //}
+
         }
     }
 }

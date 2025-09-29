@@ -1,0 +1,14 @@
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\bin\Debug\net8.0\Aufgabe 3.exe
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\bin\Debug\net8.0\Aufgabe 3.deps.json
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\bin\Debug\net8.0\Aufgabe 3.runtimeconfig.json
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\bin\Debug\net8.0\Aufgabe 3.dll
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\bin\Debug\net8.0\Aufgabe 3.pdb
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\obj\Debug\net8.0\Aufgabe 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\obj\Debug\net8.0\Aufgabe 3.AssemblyInfoInputs.cache
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\obj\Debug\net8.0\Aufgabe 3.AssemblyInfo.cs
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\obj\Debug\net8.0\Aufgabe 3.csproj.CoreCompileInputs.cache
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\obj\Debug\net8.0\Aufgabe 3.dll
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\obj\Debug\net8.0\refint\Aufgabe 3.dll
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\obj\Debug\net8.0\Aufgabe 3.pdb
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\obj\Debug\net8.0\Aufgabe 3.genruntimeconfig.cache
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\Aufgabe 3\obj\Debug\net8.0\ref\Aufgabe 3.dll

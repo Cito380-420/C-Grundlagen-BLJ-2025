@@ -1,0 +1,14 @@
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\bin\Debug\net8.0\00 Input prüfen.exe
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\bin\Debug\net8.0\00 Input prüfen.deps.json
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\bin\Debug\net8.0\00 Input prüfen.runtimeconfig.json
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\bin\Debug\net8.0\00 Input prüfen.dll
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\bin\Debug\net8.0\00 Input prüfen.pdb
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\obj\Debug\net8.0\00 Input prüfen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\obj\Debug\net8.0\00 Input prüfen.AssemblyInfoInputs.cache
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\obj\Debug\net8.0\00 Input prüfen.AssemblyInfo.cs
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\obj\Debug\net8.0\00 Input prüfen.csproj.CoreCompileInputs.cache
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\obj\Debug\net8.0\00 Input prüfen.dll
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\obj\Debug\net8.0\refint\00 Input prüfen.dll
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\obj\Debug\net8.0\00 Input prüfen.pdb
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\obj\Debug\net8.0\00 Input prüfen.genruntimeconfig.cache
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\00 Input prüfen\obj\Debug\net8.0\ref\00 Input prüfen.dll

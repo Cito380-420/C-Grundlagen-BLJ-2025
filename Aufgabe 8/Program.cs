@@ -19,7 +19,6 @@
             "kotze", "mistkerl", "sau", "schwein", "verpiss", "ekelhaft"
             };
 
-
             Console.WriteLine("Dein Kommentar:");
             comment = Console.ReadLine();
 
@@ -37,14 +36,11 @@
             {
                 Console.WriteLine("\nVielen Dank für deinen Kommentar.");
             }
-
             else
             {
-                Console.WriteLine("\nDein Kommentar enthält 2 verbotene Wörter." +
+                Console.WriteLine("\nDein Kommentar enthält " +  forbiddenWordsCounter.ToString()  + " verbotene Wörter." +
                                   "\nEr wird nicht veröffentlicht.");
             }
-           
-
         }
     }
 }

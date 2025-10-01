@@ -17,7 +17,12 @@
 
             for (int i = 0; i < inputArray.Length; i++)
             {
-                Console.Write($"[{i}] -> {SumUp(inputArray)[i]}");
+                Console.Write($"\n[{i}] -> {SumUp(inputArray)[i]}");
+
+                if (i != inputArray.Length - 1)
+                {
+                    Console.Write(", ");
+                }
             }
 
         }
@@ -25,9 +30,12 @@
         static int[] SumUp(int[] arr)
         {
 
-            int[] result = new int[arr.Length];
+            int[] result = (int[]) arr.Clone();
 
-           
+            for (int i = 1; i < result.Length; i++)
+            {
+                result[i] = result[i] + result[i - 1];
+            }
 
             return result;
 

@@ -13,6 +13,10 @@
             number1 = validInput(1);
             number2 = validInput(2);
 
+            Console.WriteLine("\n--------------------------------------------");
+            Console.WriteLine("Zahl\t | Quersumme \t | Zahl / Quersumme");
+            Console.WriteLine("--------------------------------------------");
+
             if (number2 < number1)
             {
                 numberTemp = number1;

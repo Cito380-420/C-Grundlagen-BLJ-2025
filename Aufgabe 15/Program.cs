@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            int breiteStamm = validInput("Wie breit soll der Stamm sein");
-            int hoeheStamm = validInput("Wie hoch soll der Stamm sein");
-            int hoeheKrone = validInput("Wie hoch soll die Krone sein");
+            int breiteStamm = validInput("Wie breit soll der Stamm sein: ");
+            int hoeheStamm = validInput("Wie hoch soll der Stamm sein: ");
+            int hoeheKrone = validInput("Wie hoch soll die Krone sein: ");
 
             zeichneTannenbaum(hoeheKrone, breiteStamm, hoeheStamm);
             Console.WriteLine("\n\n");
@@ -19,7 +19,7 @@
 
             while (true)
             {
-                Console.WriteLine(Frage);
+                Console.Write(Frage);
                 input = Console.ReadLine();
 
                 if (int.TryParse(input, out parsedInput))
@@ -29,11 +29,11 @@
 
                 else
                 {
-                    Console.WriteLine($"\nEingabefehler, bitte eine Ganzzahl eingeben.\n{Frage}");
+                    Console.WriteLine($"\nEingabefehler, bitte eine Ganzzahl eingeben.");
                 }
             }
         }
-        static void zeichneZeile(int leerzeichen, int sterne)
+        static void zeichneZeileStamm(int leerzeichen, int sterne)
         {
             for (int i = 0; i < leerzeichen; i++)
             {
@@ -42,7 +42,20 @@
 
             for (int i = 0;i < sterne; i++)
             {
-                Console.Write("*");
+                Console.Write("\x1b[38;2;102;44;23m*\x1b[0m");
+            }
+
+        }
+        static void zeichneZeileKrone(int leerzeichen, int sterne)
+        {
+            for (int i = 0; i < leerzeichen; i++)
+            {
+                Console.Write(" ");
+            }
+
+            for (int i = 0; i < sterne; i++)
+            {
+                Console.Write("\x1b[38;2;102;255;102m*");
             }
 
         }
@@ -55,7 +68,7 @@
             {
                 Console.WriteLine();
 
-                zeichneZeile(leerzeichen, sterne);
+                zeichneZeileKrone(leerzeichen, sterne);
 
                 leerzeichen = leerzeichen - 1;
                 sterne = sterne + 2;
@@ -71,7 +84,7 @@
 
             for (int i = 0; i < hoeheStamm; i++)
             {
-                zeichneZeile(leerzeichen, sterne);
+                zeichneZeileStamm(leerzeichen, sterne);
                 Console.WriteLine();
             }
 

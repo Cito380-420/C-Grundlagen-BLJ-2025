@@ -1,0 +1,15 @@
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\bin\Debug\net8.0\Aufgabe 15.exe
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\bin\Debug\net8.0\Aufgabe 15.deps.json
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\bin\Debug\net8.0\Aufgabe 15.runtimeconfig.json
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\bin\Debug\net8.0\Aufgabe 15.dll
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\bin\Debug\net8.0\Aufgabe 15.pdb
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\obj\Debug\net8.0\Aufgabe 15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\obj\Debug\net8.0\Aufgabe 15.AssemblyInfoInputs.cache
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\obj\Debug\net8.0\Aufgabe 15.AssemblyInfo.cs
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\obj\Debug\net8.0\Aufgabe 15.csproj.CoreCompileInputs.cache
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\obj\Debug\net8.0\Aufgabe 15.sourcelink.json
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\obj\Debug\net8.0\Aufgabe 15.dll
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\obj\Debug\net8.0\refint\Aufgabe 15.dll
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\obj\Debug\net8.0\Aufgabe 15.pdb
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\obj\Debug\net8.0\Aufgabe 15.genruntimeconfig.cache
+D:\Leon\06 Applikationsentwicklung\VS - Leon Waser\BLJ\C#\C-Grundlagen-BLJ-2025\Aufgabe 15\obj\Debug\net8.0\ref\Aufgabe 15.dll

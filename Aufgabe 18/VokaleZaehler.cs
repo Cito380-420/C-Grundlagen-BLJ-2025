@@ -8,11 +8,11 @@ namespace Aufgabe_18
 {
     public class VokaleZaehler
     {
-        private Dictionary<char, int> vokale = new Dictionary<char, int>();
+        private Dictionary<string, int> vokale = new Dictionary<string, int>();
 
-        public void ErhoeheUmEins(char vokal)
+        public void ErhoeheUmEins(string vokal)
         {
-            if (vokal == 'a')
+            if (vokal.ToLower() == "a" || vokal.ToLower() == "e" || vokal.ToLower() == "i" || vokal.ToLower() == "o" || vokal.ToLower() == "u" || vokal.ToLower() == "ä" || vokal.ToLower() == "ö" || vokal.ToLower() == "ü")
             {
                 if (!vokale.Keys.Contains(vokal))
                     vokale.Add(vokal, 0);
@@ -25,12 +25,11 @@ namespace Aufgabe_18
         {
             string resultat = "";
 
-            foreach (char key in vokale.Keys)
+            foreach (string key in vokale.Keys)
             {
                 resultat += key + ": " + vokale[key] + " mal" + Environment.NewLine;
             }
             
-
             return resultat;
         }
     }

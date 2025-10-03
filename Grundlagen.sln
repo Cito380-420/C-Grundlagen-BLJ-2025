@@ -5,23 +5,23 @@ VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00 Input prüfen", "00 Input prüfen\00 Input prüfen.csproj", "{41675B86-E397-CA28-D7A7-A9BC264A6CBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 1", "Aufgabe 1\Aufgabe 1.csproj", "{498E0744-21BA-8C82-90C7-7B99ADAED06B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 01", "Aufgabe 1\Aufgabe 01.csproj", "{498E0744-21BA-8C82-90C7-7B99ADAED06B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 2", "Aufgabe 2\Aufgabe 2.csproj", "{5E4D023B-50DE-6081-C337-9DCF65DE82D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 02", "Aufgabe 2\Aufgabe 02.csproj", "{5E4D023B-50DE-6081-C337-9DCF65DE82D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 3", "Aufgabe 3\Aufgabe 3.csproj", "{523D0B6E-6F1B-9DC6-99CA-E307F182C766}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 03", "Aufgabe 3\Aufgabe 03.csproj", "{523D0B6E-6F1B-9DC6-99CA-E307F182C766}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 4", "Aufgabe 4\Aufgabe 4.csproj", "{74E53649-FC71-F5F1-D50C-6D8932DC6701}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 04", "Aufgabe 4\Aufgabe 04.csproj", "{74E53649-FC71-F5F1-D50C-6D8932DC6701}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 5", "Aufgabe 5\Aufgabe 5.csproj", "{F5C87E7C-C14A-C8CD-685C-A8E2F9522614}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 05", "Aufgabe 5\Aufgabe 05.csproj", "{F5C87E7C-C14A-C8CD-685C-A8E2F9522614}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 6", "Aufgabe 6\Aufgabe 6.csproj", "{1062FC35-4FFA-7EEE-B493-263BCBC84276}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 06", "Aufgabe 6\Aufgabe 06.csproj", "{1062FC35-4FFA-7EEE-B493-263BCBC84276}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 7", "Aufgabe 7\Aufgabe 7.csproj", "{1951F38D-F556-761C-0AB3-12DC5D519B29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 07", "Aufgabe 7\Aufgabe 07.csproj", "{1951F38D-F556-761C-0AB3-12DC5D519B29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 8", "Aufgabe 8\Aufgabe 8.csproj", "{B6291CD9-F54C-6C3D-B7F5-A0574026C84D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 08", "Aufgabe 8\Aufgabe 08.csproj", "{B6291CD9-F54C-6C3D-B7F5-A0574026C84D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 9", "Aufgabe 9\Aufgabe 9.csproj", "{D5F19EBC-546F-AC6B-7E67-1B89C4B196FA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 09", "Aufgabe 9\Aufgabe 09.csproj", "{D5F19EBC-546F-AC6B-7E67-1B89C4B196FA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aufgabe 10", "Aufgabe 10\Aufgabe 10.csproj", "{9D0BD8CF-E454-4E2C-8C04-501719792D34}"
 EndProject

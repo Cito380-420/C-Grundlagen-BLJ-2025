@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\C-Grundlagen-BLJ-2025\\Aufgabe 5\\Aufgabe 5.csproj",
-      "projectName": "Aufgabe 5",
-      "projectPath": "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\C-Grundlagen-BLJ-2025\\Aufgabe 5\\Aufgabe 5.csproj",
+      "projectUniqueName": "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\C-Grundlagen-BLJ-2025\\Aufgabe 5\\Aufgabe 05.csproj",
+      "projectName": "Aufgabe 05",
+      "projectPath": "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\C-Grundlagen-BLJ-2025\\Aufgabe 5\\Aufgabe 05.csproj",
       "packagesPath": "C:\\Users\\leonw\\.nuget\\packages\\",
       "outputPath": "D:\\Leon\\06 Applikationsentwicklung\\VS - Leon Waser\\BLJ\\C#\\C-Grundlagen-BLJ-2025\\Aufgabe 5\\obj\\",
       "projectStyle": "PackageReference",
